@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lindsayfalk.github.io/al-folio/sitemap.xml
+Sitemap: https://lindsayfalk.github.io/sitemap.xml
