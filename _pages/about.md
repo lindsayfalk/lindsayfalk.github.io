@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. lindsaygfalk@gmail.com | lfalk@stanford.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_9765.jpg
   image_circular: true # crops the image to make it circular
   more_info: # >
     # <p>555 your office number</p>
